@@ -39,7 +39,7 @@ function App() {
               <NavLink className="navlinkk" to="/">Home</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink className="navlinkk" to="/AboutUs">About Us</NavLink>
+              <NavLink className="navlinkk" to="/AboutUs">About  Us</NavLink>
             </NavItem>
             <NavItem>
               <NavLink className="navlinkk" to="/Productss">Shop</NavLink>
